@@ -6,3 +6,12 @@ customer data platform design for Telecommunication business including customer 
 
 ## Customer Data Platform Design
 ![image](https://github.com/Sujitra17/MADT8101_Customer-Analytics/blob/main/01%20Customer%20Analytics-Customer%20Single%20View/Cust%20Single%20view%20table.jpg)
+
+## Use Case Suggestion
+Order Lists
+1.
+2.
+3.
+4.
+5.
+6.
