@@ -13,7 +13,8 @@ Scoring from : Frequency booking in last 2 years & Cancellation rate
 
 ## Improve Customer Lifetime Value
 **Addition 2 Features to calculate and rescoring**
-Order Lists
+
+
 1. Average Booking Value / Amount of spending
 2. Average Gross Margin 
 ![image](agoda-04.jpg)
