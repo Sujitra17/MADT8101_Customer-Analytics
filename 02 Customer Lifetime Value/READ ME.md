@@ -2,6 +2,6 @@
 [![](https://img.shields.io/badge/-Concept-green)](#) [![](https://img.shields.io/badge/-Presentation-green)](#) [![](https://img.shields.io/badge/-Student-blue)](#)
 
 The objective is to identify a business, analyze its existing customer, and recommended new CLV Model
-## First choice credit card
+## Agoda : Online Travel Agency
 ![image](agoda-01.jpg)
-"First choice" is credit card that allow you to split payment transaction into 3 bills with 0% offer, money loan and other promotions
+"Agoda " is an online travel agency and booking platform that specializes in offering discounted hotel rooms, vacation rentals, and other accommodations. Agoda provides a user-friendly website and mobile app that allow travelers to search for and book accommodations in various destinations around the world. 
