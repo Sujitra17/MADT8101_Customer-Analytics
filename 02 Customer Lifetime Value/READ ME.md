@@ -23,3 +23,12 @@ Scoring from : Frequency booking in last 2 years & Cancellation rate
 Calculated New Score 
 Score = Total Score = No. of booking x Cancellation rate x Total spending x Gross Margin
 ![image](agoda-05.jpg)
+
+## Expectation
+Segment customer by CLV score and set up different marketing campaign to the customer if CLV score is high we can give them more benefit such as
+
+Order Lists
+1.Referral Bonuses
+2.Birthday and Anniversary Offers
+3.Special Event Rewards
+4.Exclusive Partner Offers
