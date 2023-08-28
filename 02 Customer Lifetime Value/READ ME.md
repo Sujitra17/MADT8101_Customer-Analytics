@@ -18,3 +18,5 @@ Scoring from : Frequency booking in last 2 years & Cancellation rate
 1. Average Booking Value / Amount of spending
 2. Average Gross Margin 
 ![image](agoda-04.jpg)
+
+## Re-Arrangement Customer Royalty Tier
