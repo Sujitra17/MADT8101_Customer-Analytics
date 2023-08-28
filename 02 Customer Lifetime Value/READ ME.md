@@ -26,5 +26,4 @@ Score = Total Score = No. of booking x Cancellation rate x Total spending x Gros
 
 ## Expectation
 Segment customer by CLV score and set up different marketing campaign to the customer if CLV score is high we can give them more benefit such as
-
 Referral Bonuses, Birthday and Anniversary Offers, Special Event Reward, Exclusive Partner Offers
