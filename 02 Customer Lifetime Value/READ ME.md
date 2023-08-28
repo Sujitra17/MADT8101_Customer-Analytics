@@ -20,3 +20,6 @@ Scoring from : Frequency booking in last 2 years & Cancellation rate
 ![image](agoda-04.jpg)
 
 ## Re-Arrangement Customer Royalty Tier
+Calculated New Score 
+Score = Total Score = No. of booking x Cancellation rate x Tatal spending x Gross Margin
+![image](agoda-04.jpg)
