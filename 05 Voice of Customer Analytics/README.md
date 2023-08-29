@@ -8,3 +8,9 @@ This project revolves around analyzing Wongnai reviews for the restaurant named 
 # Collect data
 Collect data (text) and prepare to CSV file
 ![image](VOC-02.jpg)
+
+# Text Processing
+-
+-
+-
+-
