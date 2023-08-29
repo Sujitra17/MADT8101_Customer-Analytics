@@ -37,3 +37,7 @@ Collect data (text) and prepare to CSV file
 ## Word Cloud
 
 ![image](messageImage_1693312203417.jpg)
+
+# Business Recommendation
+The prevailing themes in the reviews revolve around the restaurant's service quality, its natural ambiance, and its suitability as a family-friendly destination. To capitalize on these strengths, the establishment should consider amplifying its efforts, such as launching campaigns highlighting family-oriented activities during special events.:satisfied:
+
