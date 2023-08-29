@@ -18,15 +18,15 @@ Collect data (text) and prepare to CSV file
 
 # Results
 
-## Topic1
+## Topic1 : Main dish and Services
 
 ![image](messageImage_1693312050285.jpg)
 
-## Topic2
+## Topic2 : Family restaurant and Facilities
 
 ![image](messageImage_1693312074610.jpg)
 
-## Topic3
+## Topic3 : Food taste
 
 ![image](messageImage_1693312108581.jpg)
 
