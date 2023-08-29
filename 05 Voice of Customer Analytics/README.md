@@ -5,3 +5,6 @@
 This project revolves around analyzing Wongnai reviews for the restaurant named "Pa Boon," situated in Sriracha, Chonburi. With its reputation spanning across Chonburi, this restaurant has established over 5 branches. The Sriracha branch, operational for a year now, prompts an exploration into customer feedback regarding their perceptions and sentiments towards "Pa Boon." Leveraging Natural Language Processing (NLP) techniques, we aim to glean insights from a sample of 30 comments sourced from Wongnai's platform.
 ![image](VOC-01.jpg)
 
+# Overview
+Collect data (text) and prepare to CSV file
+![image](VOC-01.jpg)
