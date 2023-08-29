@@ -19,16 +19,21 @@ Collect data (text) and prepare to CSV file
 # Results
 
 **Topic1**
+
 ![image](messageImage_1693312050285.jpg)
 
 **Topic2**
+
 ![image](messageImage_1693312074610.jpg)
 
 **Topic3**
+
 ![image](messageImage_1693312108581.jpg)
 
 **Topic Detail**
+
 ![image](messageImage_1693312143425.jpg)
 
 **Word Cloud**
+
 ![image](messageImage_1693312203417.jpg)
