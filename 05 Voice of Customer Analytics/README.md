@@ -10,7 +10,7 @@ Collect data (text) and prepare to CSV file
 ![image](VOC-02.jpg)
 
 # Text Processing
--
--
--
--
+- Removing stopwords and meaningless words
+- Sentence and Word tokenization (using pythainlp)
+- Do topic modeling by using LDA (Latent Dirichlet Allocation) model 
+  (LDA is a popular algorithm for topic modeling, which is used to discover hidden thematic structures in a collection of documents.)
