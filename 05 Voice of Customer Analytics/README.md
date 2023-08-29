@@ -7,4 +7,4 @@ This project revolves around analyzing Wongnai reviews for the restaurant named 
 
 # Overview
 Collect data (text) and prepare to CSV file
-![image](VOC-01.jpg)
+![image](VOC-02.jpg)
