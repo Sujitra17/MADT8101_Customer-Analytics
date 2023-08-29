@@ -15,3 +15,8 @@ Collect data (text) and prepare to CSV file
 - Do topic modeling by using LDA (Latent Dirichlet Allocation) model 
   (LDA is a popular algorithm for topic modeling, which is used to discover hidden thematic structures in a collection of documents)
 - Visualization by using **pyLDAvis**
+
+# Results
+
+**Topic1**
+![image](messageImage_1693312050285.jpg)
