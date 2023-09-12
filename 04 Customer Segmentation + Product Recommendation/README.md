@@ -21,6 +21,7 @@ Customer segmentation based on behavior separated to 4 clusters
 ![image](SEC-05.jpg)
 
 # Customer Segmentation Movement
+Visualized by Sankey diagram
 ![image](SEC-06.jpg)
 
 # EDA TOP Rank product distribution
