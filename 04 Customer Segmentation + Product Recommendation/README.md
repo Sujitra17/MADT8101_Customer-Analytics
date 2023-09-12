@@ -3,3 +3,6 @@
 
 # Project objective
 ![image](SEC-01.jpg)
+
+# Preview dataset
+![image](SEC-02.jpg)
