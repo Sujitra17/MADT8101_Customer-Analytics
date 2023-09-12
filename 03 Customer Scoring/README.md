@@ -6,7 +6,8 @@
 -Customer Movement Analysis
 -Churn Prediction
 
-# Preparing Data
+# Method
+
 Mark up : * Cohort Analysis
           * Customer Movement Analysis
           * Churn Prediction
