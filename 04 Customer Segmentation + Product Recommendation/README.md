@@ -4,5 +4,5 @@
 # Project objective
 ![image](SEC-01.jpg)
 
-# Preview dataset
+# Data Preparation/Feature Selection
 ![image](SEC-02.jpg)
