@@ -11,5 +11,6 @@
 # Cohort Analysis
 ![image](COH-01.jpg)
 
-
+# Customer Movement
+![image](COH-02.jpg)
 
