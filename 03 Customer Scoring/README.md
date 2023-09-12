@@ -8,6 +8,8 @@
 
 - Churn Prediction
 
-# Method
+# Cohort Analysis
+
+
 
 
