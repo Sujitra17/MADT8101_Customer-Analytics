@@ -2,14 +2,12 @@
 -Dataset : Supermarket
 
 # Method
--Cohort Analysis/
+- Cohort Analysis
 
--Customer Movement Analysis/
+- Customer Movement Analysis
 
--Churn Prediction
+- Churn Prediction
 
 # Method
 
-Mark up : * Cohort Analysis
-          * Customer Movement Analysis
-          * Churn Prediction
+
