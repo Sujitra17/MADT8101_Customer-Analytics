@@ -19,3 +19,6 @@ Customer segmentation based on behavior separated to 4 clusters
 
 # Customer Segmentation (Proportion)
 ![image](SEC-05.jpg)
+
+# Customer Segmentation Movement
+![image](SEC-06.jpg)
