@@ -28,3 +28,7 @@ Customer segmentation based on behavior separated to 4 clusters
 
 # EDA Distribution Product item count by user
 ![.center-image](SEC-08.jpg)
+
+# Genearte Association Rule
+using Apriori technique
+![image](SEC-09.jpg)
