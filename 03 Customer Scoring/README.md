@@ -9,7 +9,7 @@
 - Churn Prediction
 
 # Cohort Analysis
-
+![image](COH-01.jpg)
 
 
 
