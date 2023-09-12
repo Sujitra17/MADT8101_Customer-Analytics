@@ -35,3 +35,7 @@ Customer segmentation based on behavior separated to 4 clusters
 : algorithm for market basket analysis, where it helps identify patterns of co-occurrence among products in shopping baskets.
 
 ![image](SEC-09.jpg)
+
+-Define Parameters 
+: minimum support = 0.1
+: minimum threshold = 1
