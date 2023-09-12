@@ -36,8 +36,7 @@ Customer segmentation based on behavior separated to 4 clusters
 
 ![image](SEC-09.jpg)
 
--Define Parameters 
+**Define Parameters** 
 
 : minimum support = 0.1
-
 : minimum threshold = 1
