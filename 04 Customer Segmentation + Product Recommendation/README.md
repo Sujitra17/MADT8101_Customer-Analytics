@@ -30,5 +30,8 @@ Customer segmentation based on behavior separated to 4 clusters
 ![.center-image](SEC-08.jpg)
 
 # Genearte Association Rule
-using Apriori technique
+
+-using Apriori technique 
+: algorithm for market basket analysis, where it helps identify patterns of co-occurrence among products in shopping baskets.
+
 ![image](SEC-09.jpg)
