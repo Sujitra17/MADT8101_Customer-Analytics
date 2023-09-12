@@ -14,6 +14,7 @@ result k = 4
 
 
 # Customer Segmentation
+Customer segmentation based on behavior separated to 4 clusters
 ![image](SEC-04.jpg)
 
 # Customer Segmentation (Proportion)
