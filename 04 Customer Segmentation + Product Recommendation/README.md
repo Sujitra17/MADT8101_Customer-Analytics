@@ -22,3 +22,6 @@ Customer segmentation based on behavior separated to 4 clusters
 
 # Customer Segmentation Movement
 ![image](SEC-06.jpg)
+
+# EDA TOP Rank product distribution
+![image](SEC-07.jpg)
