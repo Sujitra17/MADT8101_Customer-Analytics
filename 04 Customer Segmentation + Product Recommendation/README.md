@@ -37,6 +37,8 @@ Customer segmentation based on behavior separated to 4 clusters
 ![image](SEC-09.jpg)
 
 **Define Parameters** 
-
 : minimum support = 0.1
 : minimum threshold = 1
+: lifting > 1.05
+: Confident > 0.4
+![image](SEC-10.jpg)
