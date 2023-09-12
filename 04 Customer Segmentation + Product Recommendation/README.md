@@ -15,3 +15,6 @@ result k = 4
 
 # Customer Segmentation
 ![image](SEC-04.jpg)
+
+# Customer Segmentation (Proportion)
+![image](SEC-05.jpg)
