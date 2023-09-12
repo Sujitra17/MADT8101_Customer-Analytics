@@ -27,4 +27,4 @@ Customer segmentation based on behavior separated to 4 clusters
 ![image](SEC-07.jpg)
 
 # EDA Distribution Product item count by user
-![image](SEC-08.jpg) alt="Centered Image"
+![image](SEC-08.jpg,alt="Centered Image")
