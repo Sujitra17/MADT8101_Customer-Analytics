@@ -14,3 +14,5 @@
 # Customer Movement
 ![image](COH-02.jpg)
 
+# Churn Prediction
+![image](COH-03.jpg)
