@@ -7,5 +7,5 @@
 # Data Preparation/Feature Selection
 ![image](SEC-02.jpg)
 
-# K-Mean Clusterinsg
+# K-Mean Clustering
 ![image](SEC-03.jpg)
